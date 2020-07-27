@@ -51,6 +51,4 @@ class Song
     new_song
   end
 
-binding.pry
-
 end
